@@ -1,4 +1,4 @@
-### Hi, I'm Noy 👋👨🏽‍💻
+# Hi, I'm Noy 👋👨🏽‍💻
 
 <img src="https://github.com/noyagasi/noyagasi/blob/master/gh-header-image-cropped.png">
 
