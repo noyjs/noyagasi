@@ -6,13 +6,13 @@ During the past few months I have been specializing in full-stack development an
 
 I want to help people by building meaningful apps. I enjoy developing in the full stack, building beautiful things from nothingness, that are a delight to use.
 <br/><br/>
-## Find me around the web 🌎: 
+## Wanna know me better? 
 
-<img align="left" src="https://github.com/noyagasi/noyagasi/blob/master/noy-points-to.png">
+<img align="left" height="150" src="https://github.com/noyagasi/noyagasi/blob/master/noy-points-to.png">
 
-- Visit my <a href="http://noyagasi.com/">website</a> or <a href="http://goalaso.store/">Goalaso</a> store I'm currently writing ✍🏾
-- Sharing updates on <a href="https://www.linkedin.com/in/noyag/">LinkedIn</a> and <a href="https://twitter.com/noyjavascript">Twitter</a> 💼
-- Pure CSS MERN stack - My last painting on <a href="https://codepen.io/noyagasi/pen/VwaYzQz">Codepen</a> 🏓
+- Get some updates on my <a href="https://www.linkedin.com/in/noyag/">LinkedIn</a> and my <a href="https://twitter.com/noyjavascript">Twitter</a> 💼
+- Visit my <a href="http://noyagasi.com/">website</a> or see the <a href="http://goalaso.store/">store</a> I'm currently writing ✍🏾
+- Check out pure CSS MERN stack - my last painting on <a href="https://codepen.io/noyagasi/pen/VwaYzQz">Codepen</a> 🏓
 
 
 
