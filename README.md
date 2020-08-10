@@ -1,5 +1,7 @@
 ### Hi, I'm Noy 👋👨🏽‍💻
 
+<img src="https://raw.githubusercontent.com/noyagasi/noyagasi/master/gh-header-image-cropped.png">
+
 <!--
 **noyagasi/noyagasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
