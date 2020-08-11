@@ -12,7 +12,7 @@ I want to help people by building meaningful apps. I enjoy developing in the ful
 
 - Get some updates on my <a href="https://www.linkedin.com/in/noyag/">LinkedIn</a> and my <a href="https://twitter.com/noyjavascript">Twitter</a> 💼
 - Visit my <a href="http://noyagasi.com/">website</a> or see the <a href="http://goalaso.store/">store</a> I'm currently writing ✍🏾
-- Check out pure CSS MERN stack - my last painting on <a href="https://codepen.io/noyagasi/pen/VwaYzQz">Codepen</a> 🏓
+- Check out my last pure CSS painting on <a href="https://codepen.io/noyagasi/pen/VwaYzQz">Codepen</a> 🏓
 
 
 
