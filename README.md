@@ -11,6 +11,7 @@ I want to help people by building meaningful apps. I enjoy developing in the ful
 <img align="left" height="150" src="https://github.com/noyagasi/noyagasi/blob/master/noy-points-to.png">
 
 - Get some updates on my <a href="https://www.linkedin.com/in/noyag/">LinkedIn</a> and my <a href="https://twitter.com/noyjavascript">Twitter</a> 💼
+- Working on contibuting to open source project named <a href="https://github.com/greenpress">GreenPress</a> 🐳💪
 - Visit my <a href="http://noyagasi.com/">website</a> or see the <a href="http://goalaso.store/">store</a> I'm currently writing ✍🏾
 - Check out my last pure CSS painting on <a href="https://codepen.io/noyagasi/pen/VwaYzQz">Codepen</a> 🏓
 
