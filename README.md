@@ -2,7 +2,7 @@
 
 <img src="https://github.com/noyagasi/noyagasi/blob/master/gh-header-image-cropped.png">
 
-During the past few months I have been specializing in full-stack development and some time along the way I fell in love with JavaScript and the web.
+During the past few years I have been specializing in full-stack development and some time along the way I fell in love with JavaScript and the web.
 
 I want to help people by building meaningful apps. I enjoy developing in the full stack, building beautiful things from nothingness, that are a delight to use.
 <br/><br/>
